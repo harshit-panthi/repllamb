@@ -1,4 +1,4 @@
-# lambda-repl
+# repllamb
 
 An untyped lambda calculus REPL in Haskell, using de Bruijn indices
 internally, with an environment-based `let`.
